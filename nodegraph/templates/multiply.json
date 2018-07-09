@@ -1,0 +1,4 @@
+{
+    "inputs": ["inValue1", "inValue2"],
+    "outputs": ["outValue"]
+}
